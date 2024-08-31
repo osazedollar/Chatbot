@@ -1,4 +1,4 @@
-# Simple Yargs Chatbot
+# Simple CommandLine Chatbot
 
 A command-line chatbot built using [Yargs](https://yargs.js.org/), designed to interact with users by recognizing and responding to various commands.
 
